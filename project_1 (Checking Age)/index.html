@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checking Age</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <div class="background">
+        <div id="initialText" class="content">
+            <h1>Kindly enter your Date of Birth</h1>
+        </div>
+        <div id="afterBtnText" class="content">
+            <h1>How Much Life Journey You Have Passed </h1>
+            <div id="data">
+                <h2>
+                    <div id="year">0</div>Year
+                </h2>
+                <h2>
+                    <div id="month">0</div>month
+                </h2>
+                <h2>
+                    <div id="day">0</div>day
+                </h2>
+                <h2>
+                    <div id="hour">0</div>hour
+                </h2>
+                <h2>
+                    <div id="minute">0</div>minute
+                </h2>
+                <h2>
+                    <div id="secend">0</div>secend
+                </h2>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="setting">
+        <i id="s_icon" class="icon fa-solid fa-gear"></i>
+        <div id="dob_el" class="dob hide">
+            <input id="input" type="date">
+            <button id="check_btn" class="btn">Check</button>
+        </div>
+    </div>
+
+
+    <script src="app.js"></script>
+</body>
+
+</html>
