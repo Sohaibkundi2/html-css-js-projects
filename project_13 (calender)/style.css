@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Lora", serif;
+  background-color: #c8e7ed;
+}
+
+.container {
+  display: flex;
+}
+
+.calendar-container {
+  width: 300px;
+  background: url('neon_bk7.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 15px;
+  box-shadow: 0 0 20px #97aff6;
+  text-align: center;
+  color: white;
+  font-weight: 600;
+  overflow: hidden;
+  border: 1px solid #97aff6;
+  transition: 0.3s linear;
+}
+
+.calendar-container:hover {
+  transform: scale(1.03);
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+.month {
+  margin: 0;
+  color: black;
+  background-color: #ffa5a5;
+  font-size: 25px;
+  padding: 15px;
+}
+
+.day {
+  font-size: 20px;
+}
+
+.date-number {
+  font-size: 80px;
+  margin: 0;
+}
+
+.year {
+  font-size: 20px;
+}
+
+@media (max-width: 500px) {
+  .date-number {
+    font-size: 50px;
+  }
+}

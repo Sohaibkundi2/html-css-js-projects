@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: #000000;
+}
+
+
+span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20%;
+    position: absolute;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    background: url(hrt.png);
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    animation: sohaib 5s linear;
+
+}
+
+@keyframes sohaib {
+    0% {
+        transform: translate(-50%, -50%);
+        opacity: 1;
+        filter: hue-rotate(0);
+    }
+
+    100% {
+        transform: translate(-50%, -5000%);
+        opacity: 0;
+        filter: hue-rotate(1500deg);
+    }
+
+}
