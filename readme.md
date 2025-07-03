@@ -1,8 +1,15 @@
-# Mini Frontend Projects – HTML, CSS, JavaScript
+<h1 align="center"> Mini HTML, CSS & JS Projects</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-20%2B-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-UI%2FUX%2C%20DOM%2C%20JS-blue?style=flat-square" />
+</p>
 
-This repository contains a collection of 20+ beginner-to-intermediate level frontend projects built using HTML, CSS, and JavaScript. These projects helped me sharpen my skills in UI/UX, DOM manipulation, animations, interactivity, and responsiveness.
+A collection of beginner-to-intermediate level frontend projects built using **HTML**, **CSS**, and **JavaScript**. These projects helped me strengthen my understanding of DOM manipulation, animations, user interactions, and responsive design.
 
-## Projects Overview
+---
+
+##  Projects Overview
 
 | No. | Project Name                | Description                                           | View |
 |-----|-----------------------------|-------------------------------------------------------|------|
@@ -21,18 +28,44 @@ This repository contains a collection of 20+ beginner-to-intermediate level fron
 | 13  | Calendar                    | A simple calendar.                                    | [View](<./project_13%20(calender)/>) |
 | 14  | Password + Theme            | A simple password generator with a theme changer.     | [View](<./project_14%20(passward%20+%20theme)/>) |
 | 15  | Rock Paper Scissors         | A simple rock paper scissors game.                    | [View](<./project_15%20(Rock%20Paper%20Scieser)/>) |
-| 16  | SwiperJS Testimonial Carousel| A responsive testimonial carousel using SwiperJS.    | [View](./project_16%20(swiperjs)/) |
+| 16  | SwiperJS Testimonial Carousel | A responsive testimonial carousel using SwiperJS.    | [View](./project_16%20(swiperjs)/) |
 | 17  | Instagram Profile Card      | An interactive profile card inspired by Instagram.    | [View](./project_17%20(Insta%20Profile%20Card)/) |
 | 18  | To-Do List Application      | A classic to-do list to add, track, and manage tasks. | [View](./project_18%20(to-do%20list)/) |
 | 19  | Interactive Portfolio Showcase | A portfolio showcase with smooth scrolling and animations. | [View](./project_19%20(works)/) |
 | 20  | Sundown Studio Clone        | A clone of the Sundown Studio website with rich visuals. | [View](./project_20%20(Sundown%20Studio)/) |
 
-> Note: Some of these projects are built purely for learning purposes and may be improved further.
+---
 
-## Author
+##  Project Status
 
-**Sohaib Kundi**  
-Frontend & MERN Stack Developer
+- **Project Count:** 20+
+- **All Projects Completed:** ✔️
 
-- [GitHub](https://github.com/sohaibkundi)
-- [LinkedIn](https://www.linkedin.com/in/sohaibkundi2)
+---
+
+## 📄 License
+
+This project is for learning/demo purposes only.  
+> Commercial use requires permission.
+
+---
+
+## ✨ Author
+
+<p align="center"> 
+  <a href="https://github.com/sohaibkundi2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a> 
+  <a href="https://linkedin.com/in/sohaibkundi2">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a> 
+  <a href="mailto:sohaibkundi2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
+  </a> 
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sohaibkundi2&label=Profile+Views&color=blue&style=flat-square" />
+</p>
+
+> Built with focus and practice by **Sohaib Kundi** – [@sohaibkundi2](https://github.com/sohaibkundi2)

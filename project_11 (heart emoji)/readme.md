@@ -20,5 +20,5 @@ This project creates a dynamic and visually engaging heart trail effect that fol
 ### Author  
 **Sohaib Kundi**  
 Frontend & MERN Stack Developer  
-[GitHub](https://github.com/sohaibkundi)  
+[GitHub](https://github.com/sohaibkundi2)  
 [LinkedIn](https://www.linkedin.com/in/sohaibkundi2)

@@ -40,7 +40,7 @@ This is a simple and interactive math quiz web application built using HTML, CSS
 
 **Sohaib Kundi**  
 Frontend & MERN Stack Developer  
-- [GitHub](https://github.com/sohaibkundi)
+- [GitHub](https://github.com/sohaibkundi2)
 -  [LinkedIn](https://www.linkedin.com/in/sohaibkundi2)
 
 ## Preview

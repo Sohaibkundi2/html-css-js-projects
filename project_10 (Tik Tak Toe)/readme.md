@@ -21,5 +21,5 @@ A classic 2-player Tic Tac Toe game built using HTML, CSS, and JavaScript, allow
 ### Author  
 **Sohaib Kundi**  
 Frontend & MERN Stack Developer  
-[GitHub](https://github.com/sohaibkundi)  
+[GitHub](https://github.com/sohaibkundi2)  
 [LinkedIn](https://www.linkedin.com/in/sohaibkundi2)

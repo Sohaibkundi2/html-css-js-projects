@@ -32,5 +32,5 @@ https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=your-input
 
 **Sohaib Kundi**  
 Frontend & MERN Stack Developer  
-- [GitHub](https://github.com/sohaibkundi)  
+- [GitHub](https://github.com/sohaibkundi2)  
 - [LinkedIn](https://www.linkedin.com/in/sohaibkundi2)
