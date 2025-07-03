@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-color: #182267;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    background-color: #42c5f0;
+    padding: 20px;
+    border: 2px solid #135be0;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #529da7;
+    line-height: 40px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+input,
+button {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #135be0;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #529da7;
+    outline: none;
+    text-align: center;
+}
+
+button {
+    background-color: #1a0625;
+    color: #aabcbf;
+    opacity: 0.8;
+    transition: 0.3s ease-in-out;
+}
+
+button:hover {
+    opacity: 1;
+}
+
+.lower_content {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #1a0625;
+    margin-top: 20px; /* Added margin to separate from form */
+    overflow: hidden; /* Hide overflow to clip QR code animation */
+    height: 0; /* Initially hide QR code image */
+    transition: height 0.5s ease-out; /* Smooth transition for height change */
+}
+
+.lower_content img {
+    height: 150px;
+    transition: transform 0.5s ease-out; /* Smooth transition for transform */
+    transform: translateY(150px); /* Start QR code image below its final position */
+}
+
+.lower_content.show {
+    height: 150px; /* Show the QR code image container */
+}
+
+.lower_content.show img {
+    transform: translateY(0); /* Move QR code image to its final position */
+}
